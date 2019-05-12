@@ -8,6 +8,10 @@
 
 ## Installation
 
+`git clone https://github.com/Dmitri801/muzeGen-twitterbot.git`
+
+`cd muzeGen-twitterbot`
+
 `npm install`
 
 ## Run it
