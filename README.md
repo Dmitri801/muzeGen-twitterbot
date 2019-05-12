@@ -6,6 +6,10 @@
 
 - Create a file called config.js in the root and include your twitter API information following this [documentation](https://github.com/ttezel/twit)
 
+## Installation
+
+`npm install`
+
 ## Run it
 
 `node bot.js`
