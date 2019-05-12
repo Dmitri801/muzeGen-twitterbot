@@ -27,3 +27,7 @@ module.exports = {
 ## Run it
 
 `node bot.js`
+
+## Production
+
+The app uses [pm2](https://github.com/Unitech/pm2) to run in production
